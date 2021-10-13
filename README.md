@@ -7,7 +7,7 @@
 
 <div style="display: flex;">
   <img style="flex: 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markexin&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats" alt="" />
-  <img style="flex: 1" src="https://github-readme-stats.vercel.app/api?username=markexin&count_private=true" alt="" />
+  <img style="flex: 1; margin-left: 10px" src="https://github-readme-stats.vercel.app/api?username=markexin&count_private=true" alt="" />
 </div>
 
 <!--
