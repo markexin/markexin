@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 我工作在北京的一家互联网企业
+- 🔭 工作在北京😸😸😸
 - 🌱 我是一名前端coder
-- 👯 我喜欢结交大牛，可以向大佬不断学习
-- 🤔 历经前端数载，有时候也困惑
-- 💬 希望在这里找到答案
+- 👯 我喜欢coding，喜欢不断挑战新鲜事物，不断刷新自己对代码世界的认知
+- 🤔 座右铭：愿自己出走半生，归来仍是少年~
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markexin&count_private=true)
 
