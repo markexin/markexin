@@ -6,8 +6,8 @@
 - 🤔 座右铭：愿自己出走半生，归来仍是少年~
 
 <div style="display: flex;">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markexin&count_private=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markexin&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=markexin&count_private=true" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markexin&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats" alt="" />
 </div>
 
 <!--
