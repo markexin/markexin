@@ -5,9 +5,8 @@
 - 👯 我喜欢coding，喜欢不断挑战新鲜事物，不断刷新自己对代码世界的认知
 - 🤔 座右铭：愿自己出走半生，归来仍是少年~
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNly1gy2kgqp2srj30rk183jwh.jpg" alt="/" />
-
 <div style="display: flex;">
+  <img src="https://tva1.sinaimg.cn/large/008i3skNly1gy2kgqp2srj30rk183jwh.jpg" alt="/" />
   <img style="flex: 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markexin&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats" alt="" />
   <img style="flex: 1; margin-left: 10px" src="https://github-readme-stats.vercel.app/api?username=markexin&count_private=true" alt="" />
 </div>
