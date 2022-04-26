@@ -3,6 +3,7 @@
 - 🔭 工作在北京😸😸😸
 - 🌱 我是一名前端coder
 - 👯 我喜欢coding，喜欢不断挑战新鲜事物，不断刷新自己对代码世界的认知
+- 🤔 欢迎大家来到我的博客小站 https://www.marke.xin
 
 <div style="display: flex;">
   <img style="flex: 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markexin&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats" alt="" />
