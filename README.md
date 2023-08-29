@@ -7,7 +7,7 @@
   - 用 JavaScript 魔法，让页面焕发动态的魅力
   - 在浩瀚的互联网世界中，我是一位探索者，不断追求新的技术与趋势。
   - 也是一名学者，不断提升自己，追求技术的卓越与创新。
-- 🤔 欢迎大家来到我的博客小站 https://www.marke.xin（停服维护中...）
+- 🤔 欢迎大家来到我的博客小站 http://62.234.202.254/
 
 <div style="display: flex;">
   <img style="flex: 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markexin&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats" alt="" />
