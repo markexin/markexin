@@ -9,9 +9,9 @@
 - 😄 也是一名学者，不断提升自己，追求技术的卓越与创新。
 - 🤔 欢迎大家来到我的博客小站 http://62.234.202.254/
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=markexin" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=markexin" /> </div>
-<div align="center"> <img style="flex: 1; margin-left: 10px" src="https://github-readme-stats.vercel.app/api?username=markexin&count_private=true" alt="" /> </div>
+<div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=markexin" /> </div>
+<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=markexin" /> </div>
+<div align="left"> <img style="flex: 1; margin-left: 10px" src="https://github-readme-stats.vercel.app/api?username=markexin&count_private=true" alt="" /> </div>
 
 
 <!--
