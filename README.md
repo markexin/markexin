@@ -7,7 +7,7 @@
 - 💬 用 JavaScript 魔法，让页面焕发动态的魅力
 - 📫 在浩瀚的互联网世界中，我是一位探索者，不断追求新的技术与趋势。
 - 😄 也是一名学者，不断提升自己，追求技术的卓越与创新。
-- 🤔 欢迎大家来到我的博客小站 http://62.234.202.254/
+- 🤔 欢迎大家来到我的博客小站 [点击进入](https://www.marke.xin/)
 
 <div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=markexin" /> </div>
 <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=markexin" /> </div>
