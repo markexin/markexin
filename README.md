@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🔭 工作在北京😸😸😸
-- 🌱 我是一名 **前端** Engineer, 励志成为一名优秀的前端架构师
+- 🌱 我是一名 **前端** Engineer, 一名爱折腾的前端架构师。
 - 😄 也是一名学者，不断提升自己，追求技术的卓越与创新。
-- 👉🏻 博客地址：<a href="https://github.com/markexin/markexin.github.io">Blog</a>
 
 <!-- <div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=markexin" /> </div> -->
 <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=markexin" /> </div>
