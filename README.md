@@ -1,25 +1,22 @@
 ### Hi there 👋
 
-- 🔭 工作在北京😸😸😸
-- 🌱 我是一名爱折腾的 **前端** Engineer。
-- 😄 也是一名学者，不断努力提升自己，追求技术的卓越与创新，挑战不可能。
+```
+const MaQun = {
+  pronouns: "他/这个靓仔, 是一名爱折腾的 **前端** Engineer",
+  code: ["🌐 人形编译器", "🦄 能用CSS画的绝不用PS"],
+  techStack: {
+    frontend: ["React(初恋)", "Vue(新欢)", "TypeScript(婚后财产)"],
+    backend: ["Node.js(用来写脚本的)", "Python(用来写爬虫的)"],
+    database: ["MongoDB(JSON爱好者)", "Redis(本地存储替代方案)"]
+  },
+  features: ["代码洁癖晚期", "console.log狂魔", "F12元素审查终结者"],
+  daily: ["☕ 咖啡驱动开发", "🐛 与bug谈恋爱", "⌨️ 用键盘演奏交响乐"]
+};
 
-<!-- <div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=markexin" /> </div> -->
-<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=markexin" /> </div>
-<!-- <div align="left"> <img style="flex: 1; margin-left: 10px" src="https://github-readme-stats.vercel.app/api?username=markexin&count_private=true" alt="" /> </div> -->
+```
 
-
-<!--
-**markexin/markexin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ██████████████████ 95% HTML       （能徒手画table布局）
+ ███████████████░░░ 80% CSS        （会使用!important必杀技）
+ ██████████████████ 99% JS         （精通复制Stack Overflow代码）
+ ████████████░░░░░░░ 60% WebGL     （会旋转立方体就算会）
+ ██████████████████ 100% 摸鱼      （精通Chrome小恐龙马拉松）
